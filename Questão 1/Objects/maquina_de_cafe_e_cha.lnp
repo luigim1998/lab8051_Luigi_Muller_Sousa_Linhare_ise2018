@@ -1,0 +1,4 @@
+".\Objects\STARTUP.obj",
+".\Objects\maquinaCafe.obj" 
+TO ".\Objects\maquina_de_cafe_e_cha" 
+PRINT(".\Listings\maquina_de_cafe_e_cha.m51") RAMSIZE(256) 
